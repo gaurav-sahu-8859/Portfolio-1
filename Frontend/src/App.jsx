@@ -25,6 +25,7 @@ const router = createBrowserRouter([
       {
         index: true,
         element: <Hero />
+        
       },
       {
         path: "service",
